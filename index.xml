@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hang&#39;s Blog</title>
+    <link>https://hangzz0910.github.io/</link>
+    <description>Recent content on Hang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 05 May 2022 00:18:23 +0800</lastBuildDate><atom:link href="https://hangzz0910.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的博客搭建辛酸历程</title>
+      <link>https://hangzz0910.github.io/posts/blog/blog/</link>
+      <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
+      
+      <guid>https://hangzz0910.github.io/posts/blog/blog/</guid>
+      <description>未完结 待续</description>
+    </item>
+    
+    <item>
+      <title>🤝友链</title>
+      <link>https://hangzz0910.github.io/links/</link>
+      <pubDate>Sat, 06 Nov 2021 15:15:53 +0800</pubDate>
+      
+      <guid>https://hangzz0910.github.io/links/</guid>
+      <description>Southernwood 623第一小朋友</description>
+    </item>
+    
+    <item>
+      <title>🙋🏻‍♂️关于</title>
+      <link>https://hangzz0910.github.io/about/</link>
+      <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
+      
+      <guid>https://hangzz0910.github.io/about/</guid>
+      <description>关于我 姓名: Hang 职业: 平平无奇双非大二计科 运动: 户外</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
