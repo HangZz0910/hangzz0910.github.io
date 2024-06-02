@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hang&#39;s Blog</title>
+    <title>杭の小屋</title>
     <link>https://hangzz0910.github.io/</link>
-    <description>Recent content on Hang&#39;s Blog</description>
+    <description>Recent content on 杭の小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 31 Oct 2023 00:18:00 +0800</lastBuildDate><atom:link href="https://hangzz0910.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>我的hugo框架博客搭建辛酸历程</title>
+      <title>我的hugo框架博客&#43;GitHub/阿里云服务器搭建历程</title>
       <link>https://hangzz0910.github.io/posts/blog/blog/</link>
       <pubDate>Tue, 31 Oct 2023 00:18:00 +0800</pubDate>
       
