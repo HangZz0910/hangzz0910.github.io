@@ -6,7 +6,16 @@
     <description>Recent content on 杭の小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 31 Oct 2023 00:18:00 +0800</lastBuildDate><atom:link href="https://hangzz0910.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Aug 2024 15:07:17 +0800</lastBuildDate><atom:link href="https://hangzz0910.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>STM32基础</title>
+      <link>https://hangzz0910.github.io/posts/tech/stm32/</link>
+      <pubDate>Mon, 05 Aug 2024 15:07:17 +0800</pubDate>
+      
+      <guid>https://hangzz0910.github.io/posts/tech/stm32/</guid>
+      <description>STM32介绍 基于ARM Cortex-M内核开发的32位微控制器 STM32F103C8T6 内核：ARM Cortex-M3 主频：72MHz RAM：20K(SRAM) ROM：64K(Flash) 供电：2.0~3.6V(标准3.3V) 封装：LQFP48 片上资源/外设 NVIC嵌套向量中断控制器：内核里面用于管理中断的设备，比如</description>
+    </item>
+    
     <item>
       <title>我的hugo框架博客&#43;GitHub/阿里云服务器搭建历程</title>
       <link>https://hangzz0910.github.io/posts/blog/blog/</link>
